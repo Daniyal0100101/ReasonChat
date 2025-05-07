@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# log files
+logs/
+*.log
+
+# virtual env
+venv/
+.venv/
+
+# Distribution / packaging
+.DS_Store
+
+#Gemini implementation
+Gemini_implementation/
